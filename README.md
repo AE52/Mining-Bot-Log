@@ -5,4 +5,4 @@ Bios ayarlarınızdan elektirik gidip geldiği zaman bilgisayarınızın otomati
 Otomatik update ayarını kapatın .
 Defenderı kapatın 
 shell:startup girip bot.py dosyasını oraya koyun .
-Ve kesintisiz miningin tadına varın 
+Kesintisiz miningin tadına varın 
